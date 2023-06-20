@@ -6,9 +6,9 @@ function Navbar() {
    <>
    <nav className='navbar'>
     <div className='navbar-container'>
-    <link to="/"  className='navbar-logo'>
+    <Link to="/"  className='navbar-logo'>
         RTGW <i class="fa-solid fa-house"></i>
-    </link>
+    </Link>
 
     </div>
 
